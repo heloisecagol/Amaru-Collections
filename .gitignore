@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Local editor / Claude preview config
+.claude/
+site/.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
